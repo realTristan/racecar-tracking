@@ -102,10 +102,6 @@ while True:
     ## Show the frame
     cv2.imshow("Object Tracker", frame)
 
-    ## If the user presses the 'q' key, then exit the loop
-    if cv2.waitKey(1) & 0xFF == ord("q"):
-        break
-
 
 ## Release the video and destroy the windows
 video.release()
