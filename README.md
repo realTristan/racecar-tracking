@@ -2,6 +2,8 @@
 
 This project is a simple implementation of GOTURN (Generic Object Tracking Using Regression Networks) using OpenCV.
 
+https://github.com/realTristan/racecar-tracking
+
 ## Requirements
 
 - Python
